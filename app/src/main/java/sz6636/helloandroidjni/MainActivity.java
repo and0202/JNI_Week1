@@ -4,6 +4,10 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+/**
+ * 第一天HelloJni参考：
+ * https://codelabs.developers.google.com/codelabs/android-studio-jni/index.html?index=../../index#3
+ */
 
 public class MainActivity extends Activity {
     private TextView textView;
